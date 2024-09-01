@@ -3,4 +3,4 @@ npm i @types/express @types/cors @types/mongoose @types/node -D // remove types 
  "outDir": "./dist", 
 
  we will create nodemon.json file  which will contain confict related to the nodemon
- HH4q7mMdUN5ZVFoF --> mongo url
+ 
